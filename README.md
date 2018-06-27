@@ -23,7 +23,7 @@ Bibliotecas baseadas no ROS para gerar movimentos para um robô humanoide com pe
 Instalação das dependências do movimento
 -----------------------------------
 
-Vá para a pasta dependencies e extraia o .zip na sua pasta home (não faça isso dentro do repositório para evitar confusões no git).
+As bibliotecas Eigen e RBDL deverão ser baixadas e instaladas:
 
 * **Eigen:**<br>
         Entre na pasta do eigen que você extraiu e faça os seguintes comandos:
