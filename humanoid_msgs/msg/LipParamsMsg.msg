@@ -1,0 +1,12 @@
+float64 zCCorr
+float64 tS
+float64 tD
+float64 stepH
+float64 delayR
+float64 delayL
+float64 delayAll
+float64 vx
+float64 vy
+float64 vz
+
+
