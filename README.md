@@ -1,4 +1,4 @@
-EDROM Humanoid Movement for ROS
+Humanoid Movement for ROS (Em andamento)
 ===================================
 
 Resumo
